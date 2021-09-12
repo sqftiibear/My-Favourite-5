@@ -1,0 +1,84 @@
+#about {
+    background: linear-gradient(peachpuff, papayawhip);
+    color: orangered;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#heading {
+    font-family: dancing script
+}
+
+#gfxs {
+    text-align: center;
+}
+
+.headings {
+    color: peachpuff
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: bebas neue;
+    font-size: 30px;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    color: beige;
+    width: 1000000%;
+    height: 50px;
+    margin-top: 0px;
+    padding-top: 25px;
+    top: 0;
+    background-color: white
+}
+
+
+.gfximgs {
+    width: 350px;
+    text-align: left;
+}
+
+.sections {
+    background: seashell;
+    text-align: center;
+}
+
+h3 {
+    color:peachpuff;
+}
+.inspox:hover{
+    transform: scale(0.8);
+}
+.inspox{
+        width:15%
+}
+a{
+    text-decoration: none;
+    color: pink;
+    text-shadow: 3px 0px lavenderblush;
+}
+.links:hover {
+    font-size: 35px;
+    text-decoration: underline
+}
+img {
+    transition: transform 1s;
+    padding-right: 100px;
+    padding-left: 100px;
+}
